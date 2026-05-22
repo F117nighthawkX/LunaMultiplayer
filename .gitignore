@@ -2,6 +2,7 @@
 *.userprefs
 *.mdb
 *.nupkg
+*.lscache
 
 .fleet/
 .idea/
@@ -32,3 +33,4 @@ Server/*.csproj.user
 LmpGlobal/*.csproj.user
 
 Server/packages
+docs/*

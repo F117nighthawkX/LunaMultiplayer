@@ -14,6 +14,7 @@
 
 External/KSPLibraries/*.dll
 External/Nuget/*
+External/Nuge/*
 TestResults/*
 Config/
 logs/
@@ -34,3 +35,4 @@ LmpGlobal/*.csproj.user
 
 Server/packages
 docs/*
+*.md
